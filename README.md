@@ -1,9 +1,6 @@
 SIMPLE INVENTORY ALERT
      
-     It includes a form to input the inventory level and a button to check if the inventory is low.
-
-
-
+     
 <!DOCTYPE html>
 <html lang="en">
 <head>
